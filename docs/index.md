@@ -21,6 +21,9 @@ Or, you could write a:
 3. Like
 4. This
 
+> You might even write
+> a blockquote like this.
+
 ```markdown
 ![Image](src)
 ```
