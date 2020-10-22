@@ -1,37 +1,30 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/LiberalArtist/github-pages-experiments/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+This page was generated from [a file on GitHub](https://github.com/LiberalArtist/github-pages-experiments/blob/main/docs/index.md).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Examples
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+The source file is written in a plain text format called Markdown.
+With Markdown, you can make text **bold** or _italic_ or ***both***.
+You can add [links (this one goes to philipmcgrath.com)](https://philipmcgrath.com).
+You might want to write a:
 
 - Bulleted
 - List
+- Like
+- This
+
+Or, you could write a:
 
 1. Numbered
 2. List
+3. Like
+4. This
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```markdown
+![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Reference
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LiberalArtist/github-pages-experiments/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more details, see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
