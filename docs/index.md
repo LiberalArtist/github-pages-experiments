@@ -24,10 +24,13 @@ Or, you could write a:
 > You might even write
 > a blockquote like this.
 
-```markdown
-![Image](src)
-```
-
-### Reference
+###  Reference
 
 For more details, see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Including an Image
+
+Make sure to write a description for accessibility.
+
+![Egyptian cat statuette: Metropolitan Museum of Art 56.16.1](DP245141.jpg)
+
