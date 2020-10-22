@@ -7,6 +7,7 @@ This page was generated from [a file on GitHub](https://github.com/LiberalArtist
 The source file is written in a plain text format called Markdown.
 With Markdown, you can make text **bold** or _italic_ or ***both***.
 You can add [links (this one goes to philipmcgrath.com)](https://philipmcgrath.com).
+
 You might want to write a:
 
 - Bulleted
