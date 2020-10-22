@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-This page was generated from [a file on GitHub](https://github.com/LiberalArtist/github-pages-experiments/blob/main/docs/index.md).
+This page was generated from [a file on GitHub](https://raw.githubusercontent.com/LiberalArtist/github-pages-experiments/main/docs/index.md).
 
 ### Examples
 
